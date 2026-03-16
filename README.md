@@ -49,4 +49,4 @@ A **comprehensive collection of Java programs** designed for learning and practi
 
 1. **Clone the repository**:  
    ```bash
-   git clone <repository-ur>
+   git clone <repository-url>
